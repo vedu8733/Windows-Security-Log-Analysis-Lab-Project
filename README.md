@@ -112,7 +112,14 @@ When you click an event, check the following fields in the **Event Details** pan
 
 ---
 
-✅ This step helps simulate how a **SOC Analyst** investigates login activity using logs.  
+✅ This step helps simulate how a **SOC Analyst** investigates login activity using logs. 
+
+![commands](screenshots/commands.png)
+![Failed Login Screenshot](screenshots/4625.png)
+![Successfull Login Screenshot](screenshots/4624.png)
+
+
+
 
 
 
